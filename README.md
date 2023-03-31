@@ -1,6 +1,16 @@
 # Luxury Services NFT Marketplace
 
 The Luxury Services NFT Marketplace is a decentralized platform that allows users to book and rent luxury services such as yachts, jets, and limousines. The platform uses Ethereum, Truffle, Ganache, Node.js, and React.js to create a seamless booking experience while leveraging the benefits of NFTs for tokenizing and managing unique luxury services.
+In summary, the NFT-based luxury service booking process can be broken down into the following steps:
+
+Mint NFTs for each unique luxury service.
+Browse and view available luxury services through the platform's front-end.
+Reserve a desired service by calling the reserveService function.
+Complete payment for the reserved service using the completePayment function.
+Transfer NFT ownership to the user upon successful payment.
+Unreserve a service if the user changes their mind before completing the payment.
+Use the luxury service according to the service's terms and conditions.
+Optionally, provide a secondary market for trading or renting NFTs representing luxury services.
 
 ## Technologies
 
