@@ -71,14 +71,14 @@ npm start
 1. Write test cases for the smart contracts in the `test` directory.
 2. ## Test Cases
 
-1. Minting Services:
+ Minting Services:
 - Test that a service is minted and emits a ServiceMinted event.
 
-2. Reserving Services:
+ Reserving Services:
 - Test that a service is reserved and emits a ServiceReserved event.
 - Test that a service cannot be reserved if the payment is insufficient.
 
-Add more test cases for other functions such as unreserving services, completing payment, and testing the secondary market functionalities of the LuxuryServiceMarket contract.
+More test cases for other functions such as unreserving services, completing payment, and testing the secondary market functionalities of the LuxuryServiceMarket contract.
 
 To run the test cases, follow these steps:
 
