@@ -4,8 +4,10 @@ The Luxury Services NFT Marketplace is a decentralized platform that allows user
 
 In summary, the NFT-based luxury service booking process can be broken down into the following steps:
 
-  -Mint NFTs for each unique luxury service.
-  -Browse and view available luxury services through the platform's front-end.
+  - Mint NFTs for each unique luxury service.
+  - 
+  - Browse and view available luxury services through the platform's front-end.
+  - 
 -Reserve a desired service by calling the reserveService function.
 -Complete payment for the reserved service using the completePayment function.
 -Transfer NFT ownership to the user upon successful payment.
